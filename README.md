@@ -1,5 +1,5 @@
 # Space-Arcade
-A small game made in Unity for one of my college courses. If you want to have fun, donwload my project and try out my little game.
+A small game made in Unity for one of my college courses. If you want to have fun, download my project and try out my little game.
 
 ## Play Space-Arcade
 If you just want to play, download the "play Space Arcade" folder and enjoy.
